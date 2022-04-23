@@ -1,0 +1,9 @@
+    type Product {
+        id: Int,
+        title: String,
+        description: String,
+        code: String,
+        stock: Int,
+        price: Int,
+        thumbnail: String,
+    }
